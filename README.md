@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Soumya Gankidi
 
-<!--
-**sgankidi/sgankidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer | ETL & BI Developer with experience in building ETL pipelines,
+data warehouses, and enterprise BI reports.
 
-Here are some ideas to get you started:
+## 🔧 Experience
+- Snowflake
+- SSIS
+- SSRS
+- Power BI
+- Oracle Data Integrator (ODI)
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 Currently Learning
+- Databricks
+- PySpark
+- Python
+- Microsoft Fabric
+
+## 📂 Projects
+- Snowflake ETL Pipeline
+- SSIS Incremental Load Framework
+- SSRS & Power BI Reports
+- Data Warehouse Star Schema Design
+
+## 🎯 Career Focus
+Actively seeking **Data Engineer / ETL / BI Developer** roles.
